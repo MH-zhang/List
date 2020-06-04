@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchNotice</string>
+    <string name="msg_error1_input">请输入数值</string>
+    <string name="msg_error2_input">找不到匹配标题</string>
+</resources>
